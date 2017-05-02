@@ -1,2 +1,2 @@
-# CS635_Project
+# CS635_Comp_Programming_Lang_Project
 Programming Project
